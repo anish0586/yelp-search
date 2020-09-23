@@ -18,5 +18,6 @@ How to run the code locally
 * Go to client folder under project, run `npm i`
 * Return back to base project folder, and run `npm run dev` (this will run both server and client side code together)
 
+![alt text](https://github.com/anish0586/yelp-search/blob/master/client/public/image%20(37).png?raw=true)
 
 
