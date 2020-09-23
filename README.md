@@ -18,6 +18,5 @@ How to run the code locally
 * Go to client folder under project, run `npm i`
 * Return back to base project folder, and run `npm run dev` (this will run both server and client side code together)
 
-Sample Screen below:
 
 
